@@ -113,7 +113,7 @@ python run_experiment.py --input sample_input.txt --output result.json
 ---
 
 ## 📂 폴더 구조
-
+📂 code/
 ```
 ├── main.py              # 메인 실행 파일
 ├── config.py            # 설정 파일
