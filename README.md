@@ -35,7 +35,7 @@
     예외와 복잡한 문법이 많은 한국어에서는 핵심적인 교정 원칙과 실제 예시를 함께 보여주는 것이 더 효과적이었다.
     
 
-**[선택하지 않은 방식: zero-shot, rule-based, Chain-of_Thought, Feedback Loop] **
+**[선택하지 않은 방식: zero-shot, rule-based, Chain-of_Thought, Feedback Loop]**
 
 - Zero-shot 방식
     
@@ -48,8 +48,6 @@
 - Chain-of-Thought (CoT), Feedback loop 방식
     
     Feedback loop방식은 여러 턴에 걸쳐 수정하는 방식은 수정 기준이 명확하지 않고, 이미 고친 부분을 다시 수정하거나 과잉 수정하는 등  비효율적인 결과를 보였다. 1개 문장 단위에서 완료되는 문장 교정 작업 특성을 고려하면, 여러 단계를 거치는 멀티턴 방식은 적합하지 않다고 판단하였다. CoT의 경우, 추론과정을 단계적으로 분해하는데 효과적이지만 문장 교정처럼 즉각적인 패턴 인식 및 변환 작업에는 적합하지 않았다.
-
-
 
 ---
 
