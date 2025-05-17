@@ -57,7 +57,7 @@
 
 ```bash
 git clone https://github.com/sally7788/Mixup_dataton.git
-cd your-repo/experiment
+cd Mixup_dataton/experiment
 ```
 
 ### 라이브러리 설치
