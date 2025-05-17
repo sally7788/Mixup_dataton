@@ -122,8 +122,7 @@ python run_experiment.py --input sample_input.txt --output result.json
 ├── __init__.py         # 패키지 초기화 파일
 ├── utils/              # 유틸리티 함수들
 │   ├── __init__.py     # utils 패키지 초기화
-│   ├── experiment.py   # 실험 실행 및 API 호출
-│   └── metrics.py      # 평가 지표 계산
+│   └── experiment.py   # 실험 실행 및 API 호출
 └── prompts/            # 프롬프트 템플릿 저장
     ├── __init__.py     # prompts 패키지 초기화
     └── templates.py    # 프롬프트 템플릿 정의
