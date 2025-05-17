@@ -56,7 +56,7 @@
 ### 1. 사전 준비 
 
 ```bash
-git clone https://github.com/your-org/your-repo.git
+git clone https://github.com/sally7788/Mixup_dataton.git
 cd your-repo/experiment
 ```
 
